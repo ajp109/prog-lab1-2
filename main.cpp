@@ -2,7 +2,7 @@
 
 int main()
 {
-    int var = 100;
+    int var = 30;
     
     printf("var: %d\n", var);
 
